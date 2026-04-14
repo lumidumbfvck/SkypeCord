@@ -4,3 +4,4 @@ Another skeumorphic kinda theme for Discord to make it cooler. Reuses a lot of s
 ..is to copy & paste the contents of SkypeCord.css into Vencord's QuickCSS.
 # Warning:
 It's really laggy.
+And unfinished.
